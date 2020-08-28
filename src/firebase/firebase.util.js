@@ -9,8 +9,8 @@ const config = {
     projectId: "royal-clothing-e9122",
     storageBucket: "royal-clothing-e9122.appspot.com",
     messagingSenderId: "887314279965",
-    appId: "1:887314279965:web:d86cb339ac1ad66d4ee0f4",
-    measurementId: "G-7JYFD3FYSV"
+    appId: "1:887314279965:web:06a6544736b03f9e4ee0f4",
+    measurementId: "G-BJ5VCXWJTD"
 };
 
 export const createUserProfileDocument = async (userAuth, AdditionalData) => {
